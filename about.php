@@ -49,7 +49,7 @@
     <img src="./image/dina.jpg" alt="Foto Pembuat" class="credit-photo mb-3">
     <h5 class="mb-1">Dibuat oleh: Dina Castt</h5>
     <p class="mb-1">
-      <a href="dinacahyantiii05@gmail.com" class="credit-link">Email</a> |
+      <a href="https://www.instagram.com/dina_castt?igsh=YWxuMGw3Y3dxamV1" class="credit-link">Instagram</a> |
       <a href="mailto:dinacahyantiii05@gmail.com" class="credit-link">Email</a>
     </p>
     <p class="fst-italic mt-3 quote">"Jangan takut gagal, takutlah untuk berhenti mencoba."</p>
